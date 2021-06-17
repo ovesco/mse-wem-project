@@ -1,0 +1,10 @@
+{
+  "compilerOptions": {
+    "lib": ["es2019"],
+    "target": "ES5",
+    "moduleResolution": "Node",
+    "esModuleInterop": true,
+    "downlevelIteration": true,
+    "outDir": "build"
+  }
+}
